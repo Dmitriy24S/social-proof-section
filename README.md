@@ -6,4 +6,4 @@
 
 Social proof section. Created with HTML and CSS.
 
-[Live Demo](https://dmitriy24s.github.io/faq-accordion-card-v3/) 👈
+[Live Demo](https://dmitriy24s.github.io/social-proof-section/) 👈
